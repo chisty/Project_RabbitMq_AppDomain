@@ -1,0 +1,9 @@
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\EventHandler\bin\Debug\EventHandler.dll
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\EventHandler\bin\Debug\EventHandler.pdb
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\EventHandler\bin\Debug\Contracts.dll
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\EventHandler\bin\Debug\Newtonsoft.Json.dll
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\EventHandler\bin\Debug\Contracts.pdb
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\EventHandler\bin\Debug\Newtonsoft.Json.xml
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\EventHandler\obj\Debug\EventHandler.csprojResolveAssemblyReference.cache
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\EventHandler\obj\Debug\EventHandler.dll
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\EventHandler\obj\Debug\EventHandler.pdb

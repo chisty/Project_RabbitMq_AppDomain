@@ -1,0 +1,14 @@
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\MessagePublisher\bin\Debug\MessagePublisher.exe.config
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\MessagePublisher\bin\Debug\MessagePublisher.exe
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\MessagePublisher\bin\Debug\MessagePublisher.pdb
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\MessagePublisher\bin\Debug\Contracts.dll
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\MessagePublisher\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\MessagePublisher\bin\Debug\RabbitMQ.Client.dll
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\MessagePublisher\bin\Debug\Newtonsoft.Json.dll
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\MessagePublisher\bin\Debug\Contracts.pdb
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\MessagePublisher\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\MessagePublisher\bin\Debug\RabbitMQ.Client.xml
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\MessagePublisher\bin\Debug\Newtonsoft.Json.xml
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\MessagePublisher\obj\Debug\MessagePublisher.csprojResolveAssemblyReference.cache
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\MessagePublisher\obj\Debug\MessagePublisher.exe
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\MessagePublisher\obj\Debug\MessagePublisher.pdb

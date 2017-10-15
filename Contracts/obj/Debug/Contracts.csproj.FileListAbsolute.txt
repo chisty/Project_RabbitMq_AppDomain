@@ -1,0 +1,7 @@
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\Contracts\bin\Debug\Contracts.dll
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\Contracts\bin\Debug\Contracts.pdb
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\Contracts\obj\Debug\Contracts.dll
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\Contracts\obj\Debug\Contracts.pdb
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\Contracts\bin\Debug\Newtonsoft.Json.dll
+E:\Development Zone\GitHub\ArchiDesignHandsOn1\Contracts\bin\Debug\Newtonsoft.Json.xml
